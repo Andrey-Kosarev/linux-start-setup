@@ -1,3 +1,4 @@
-sudo apt install -y git python3.13 neovim tree pass curl terminator
+sudo apt install -y git python3.13 tree pass curl terminator
 
 ./apps/install_docker.sh
+./apps/install_neovim.sh
